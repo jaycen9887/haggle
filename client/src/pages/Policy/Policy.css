@@ -1,0 +1,22 @@
+.privacy-header{
+    text-align: center;
+    height: 20vh;
+    background-color: rgb(185, 185, 185);
+    color: rgb(88, 88, 88);
+    padding: 0px;
+}
+
+.privacy-header h1{
+    position: relative;
+    top: 20%;
+}
+
+.policy-effective{
+    text-align: right;
+    margin-top: 2%;
+    font-weight: bold;
+}
+
+.privacy-body p{
+    font-size: 1.1em;
+}

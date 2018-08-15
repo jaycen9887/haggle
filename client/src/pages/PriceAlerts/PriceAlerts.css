@@ -1,0 +1,61 @@
+.account a {
+    color: rgb(94, 94, 94);
+}
+
+.account .activeLink{
+    color: rgb(46, 46, 46);
+    font-size: 1.05em;
+}
+
+.price-checkbox{
+    padding-top: 5%;
+    text-align: center;
+}
+
+.clear {
+    content: "";
+    clear: both;
+}
+
+.account h5{
+    float: left;
+}
+ 
+.modal-trigger {
+    float: right;
+    margin-top: 1%;
+}
+
+.subscripts h6{
+    position: relative;
+    left: 4.5%;
+    font-weight: bold;
+}
+
+.subscripts labels {
+    font-weight: bold; 
+}
+
+.reminders [type="checkbox"]+label {
+    margin-bottom: 2%;
+}
+.reminders-checkboxes {
+    width: fit-content;
+    margin: auto;
+}
+
+.recommend-checkboxes {
+    width: fit-content;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+/* ul#select-options-62f995d0-24ca-3e82-18e4-edf98d089889.dropdown-content.select-dropdown.active{
+    max-height: 2%;
+} */

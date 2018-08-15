@@ -1,0 +1,21 @@
+.m-footer {
+    background-color: #53389C !important;
+    color: white;
+}
+
+.m-footer p{
+    padding-top: 15px;
+}
+
+.m-footer a{
+    float: right;
+}
+
+.modal {
+    display: inline-block !important;
+    width: max-content;
+}
+
+.Account-Modal .modal{
+    width: 20%;
+}

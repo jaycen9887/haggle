@@ -1,0 +1,13 @@
+.search-bar .btn {
+    background-color: #53389C;
+} 
+
+.search-bar {
+    margin-top: 5%;
+    margin-left: 5%;
+    color: #53389C;
+}
+
+.select .dropdown-content li span {
+    color: #53389C;
+}

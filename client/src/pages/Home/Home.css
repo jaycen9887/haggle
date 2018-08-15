@@ -1,0 +1,30 @@
+.topHalf {
+    background: url("https://s-i.huffpost.com/gen/1670028/images/o-SHOPPING-BAGS-facebook.jpg");
+    height: 100vh;
+    
+}
+
+.topHalf h5 {
+    text-align: center;
+    color: #53389C;
+}
+
+.footerNav{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+
+/* .topHalf::after {
+    content: "";
+    
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+} */

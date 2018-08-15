@@ -1,0 +1,15 @@
+.footer {
+    background-color: #0F0F0F !important;
+}
+
+.footer span {
+    padding: 10px;
+}
+
+.footer .grey-text.text-lighten-3:hover{
+    color: rgb(197, 197, 197) !important;
+}
+
+.footer .grey-text:hover{
+    color: rgb(218, 0, 0);
+}
