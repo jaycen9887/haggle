@@ -140,7 +140,7 @@ class PriceAlerts extends Component{
             if(recommendEmails.home === false){
                 recommendEmails.home = true;
             }else {
-                recommendEmails.home = true;false;
+                recommendEmails.home = false;
             }
             this.setState({recommendEmails: recommendEmails });
             //console.log(this.state.recommendEmails);
@@ -217,7 +217,7 @@ class PriceAlerts extends Component{
             if(reminderEmails.home === false){
                 reminderEmails.home = true;
             }else {
-                reminderEmails.home = true;false;
+                reminderEmails.home = false;
             }
             this.setState({reminderEmails: reminderEmails });
             //console.log(this.state.reminderEmails);
@@ -248,7 +248,7 @@ class PriceAlerts extends Component{
                     <Col s={10}>
                         <h5>Price Alerts</h5>
                         <span className="modal-trigger">
-                            <Modal trigger={<a>Add a price alert</a>}>
+                            <Modal trigger={<a href="/test">Add a price alert</a>}>
                                 <Row>
                                     <Input maxHeight={20} className="select-categories" onChange={this.handleCategoryChange} s={6} type="select" defaultValue="Categories">
                                         <option value="Categories" disabled>Categories</option>
@@ -341,7 +341,7 @@ class PriceAlerts extends Component{
                             </div>
                             <div className="clear"></div>
                             <hr />
-                            <a>Unsubscribe from all</a>
+                            <a href="/test">Unsubscribe from all</a>
                         </div>
                     </Col>
                 </Row>

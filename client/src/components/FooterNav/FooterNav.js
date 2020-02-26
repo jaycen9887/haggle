@@ -18,7 +18,7 @@ class FooterNav extends Component{
                     }
                 >
                     <p><span><a className="grey-text" href="/policy">Privacy</a></span><span><a className="grey-text" href="/terms">Terms & Conditions</a></span><span><a className="grey-text" href="/ads">Ad Choices</a></span></p>
-                    <p><span><a><FontAwesome name="facebook" /></a></span><span><a><FontAwesome name="twitter" /></a></span><span><a><FontAwesome name="youtube-play" /></a></span><span><a><FontAwesome name="instagram" /></a></span></p>
+                    <p><span><a href="www.facebook.com"><FontAwesome name="facebook" /></a></span><span><a href="www.twitter.com"><FontAwesome name="twitter" /></a></span><span><a href="www.youtube.com"><FontAwesome name="youtube-play" /></a></span><span><a href="www.instagram.com"><FontAwesome name="instagram" /></a></span></p>
                 </Footer>
             </div>
         );

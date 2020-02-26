@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import {Button} from "react-materialize";
 
-import NewCard from "../../components/NewCreditCardForm";
+/* import NewCard from "../../components/NewCreditCardForm"; */
 import SavedCards from "../../components/AccountPaymentMethods";
 
 import "./PaymentMethods.css";

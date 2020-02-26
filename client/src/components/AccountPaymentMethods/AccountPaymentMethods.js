@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Button } from "react-materialize";
+/* import { Button } from "react-materialize"; */
 
 import "./AccountPaymentMethods.css";
 
@@ -13,3 +13,5 @@ class AccountPaymentMethods extends Component{
         );
     }
 }
+
+export default AccountPaymentMethods;
